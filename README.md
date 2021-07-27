@@ -1,5 +1,5 @@
 # kafka
-This project creates kafka nodes with topic, a producer that wroite to the topic and consumer reading from the topic.
+This project creates kafka nodes with topic, a producer that write to the topic and consumer reading from the topic.
 run the packer modules with packer build
 run the terraform vpc module with terraform init, terraform plan and terraform apply
 copy the ansible inventory and playbook into the .ansible/tmp folder
